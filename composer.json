@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mobiledetect/mobiledetectlib": "^4.8",
+        "firebase/php-jwt": "^6.11"
+    }
+}
